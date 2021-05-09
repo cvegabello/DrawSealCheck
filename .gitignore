@@ -1,0 +1,9 @@
+/drawSealCheck/*.vbproj
+/drawSealCheck/*.vbproj.user
+/drawSealCheck/My Project/
+/drawSealCheck/bin/
+/drawSealCheck/*.resx
+/drawSealCheck/obj/
+/drawSealCheck/*.ico
+*.sln
+*.suo
